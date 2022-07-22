@@ -2,4 +2,5 @@ works: true
 
 spring:
  datasource:
-  fortunes: hello
+  fortunes:
+   1: A dubious friend may be an enemy in camouflage.

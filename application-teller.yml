@@ -1,2 +1,2 @@
 works: true
-fortunesAPI: http://localhost:8080/test
+fortunesAPI: http://localhost:8080/fortunes/random

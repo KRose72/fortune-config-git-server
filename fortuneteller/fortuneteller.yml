@@ -1,9 +1,3 @@
-management: 
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-        
 fortunesAPI: ENC(mvUPXOZp8LL7zatyHNmog0ZGB77AUQcFPtiQHFKads+vbQ8aRMbIJnP6ZhW8bPgh)
 
 management:
@@ -13,7 +7,7 @@ management:
   endpoints:
     web:
       exposure:
-        include: health
+        include: "*"
   endpoint:
     health:
       show-details: always

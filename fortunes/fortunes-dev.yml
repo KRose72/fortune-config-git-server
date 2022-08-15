@@ -1,0 +1,17 @@
+management: 
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+fortunes:
+  1: Spider-Man\: No Way Home.
+  2: A person of words and not deeds is like a garden full of weeds.
+  3: A smile is your personal welcome mat.
+  4: Believe in yourself and others will too.
+  5: Carve your name on your heart and not on marble.
+  6: Curiosity kills boredom. Nothing can kill curiosity.
+  7: Distance yourself from the vain.
+  8: Don’t let the past and useless detail choke your existence.
+  9: Everyday in your life is a special occasion.
+  10: It is worth reviewing some old lessons.

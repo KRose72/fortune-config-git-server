@@ -1,17 +1,17 @@
-management: 
+rmanagement: 
   endpoints:
     web:
       exposure:
         include: "*"
 
 fortunes:
-  1: "Spider-Man: No Way Home."
-  2: A person of words and not deeds is like a garden full of weeds.
-  3: A smile is your personal welcome mat.
-  4: Believe in yourself and others will too.
-  5: Carve your name on your heart and not on marble.
-  6: Curiosity kills boredom. Nothing can kill curiosity.
-  7: Distance yourself from the vain.
-  8: Don’t let the past and useless detail choke your existence.
-  9: Everyday in your life is a special occasion.
-  10: It is worth reviewing some old lessons.
+  1: Fortune not found? Abort, Retry, Ignore.
+  2: That wasn’t chicken.
+  3: No snowflake feels responsible in an avalanche.
+  4: You are not illiterate.
+  5: You think it’s a secret, but they know.
+  6: Don’t eat the paper.
+  7: Help! I am being held prisoner in a fortune cookie factory.
+  8: Actions speak louder than fortune cookies.
+  9: You will be hungry again in one hour.
+  10: He who laughs last is laughing at you.

@@ -5,7 +5,7 @@ management:
         include: "*"
 
 fortunes:
-  1: Spider-Man\: No Way Home.
+  1: "Spider-Man: No Way Home."
   2: A person of words and not deeds is like a garden full of weeds.
   3: A smile is your personal welcome mat.
   4: Believe in yourself and others will too.

@@ -29,6 +29,7 @@ resilience4j.circuitbreaker:
 resilience4j.ratelimiter:
   instances:
     tellerService:
+      timeoutDuration: 5s
 
 resilience4j.timelimiter:
   instances:

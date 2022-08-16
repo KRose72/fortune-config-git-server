@@ -5,13 +5,13 @@ management:
         include: "*"
 
 fortunes:
-  1: Fortune not found? Abort, Retry, Ignore.
-  2: That wasn’t chicken.
-  3: No snowflake feels responsible in an avalanche.
-  4: You are not illiterate.
-  5: You think it’s a secret, but they know.
-  6: Don’t eat the paper.
-  7: Help! I am being held prisoner in a fortune cookie factory.
-  8: Actions speak louder than fortune cookies.
-  9: You will be hungry again in one hour.
-  10: He who laughs last is laughing at you.
+  41: Fortune not found? Abort, Retry, Ignore.
+  42: That wasn’t chicken.
+  43: No snowflake feels responsible in an avalanche.
+  44: You are not illiterate.
+  45: You think it’s a secret, but they know.
+  46: Don’t eat the paper.
+  47: Help! I am being held prisoner in a fortune cookie factory.
+  48: Actions speak louder than fortune cookies.
+  49: You will be hungry again in one hour.
+  50: He who laughs last is laughing at you.

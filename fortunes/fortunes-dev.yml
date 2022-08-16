@@ -1,9 +1,3 @@
-management: 
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-
 fortunes:
   41: Fortune not found? Abort, Retry, Ignore.
   42: That wasn’t chicken.

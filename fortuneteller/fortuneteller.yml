@@ -26,6 +26,9 @@ resilience4j.circuitbreaker:
       permittedNumberOfCallsInHalfOpenState: 3
       slidingWindowSize: 10
       slidingWindowType: COUNT_BASED
+resilience4j.ratelimiter:
+  instances:
+    tellerService:
 
 resilience4j.timelimiter:
   instances:

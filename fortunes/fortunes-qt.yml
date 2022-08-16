@@ -1,27 +1,21 @@
-management: 
-  endpoints:
-    web:
-      exposure:
-        include: "*"
-
 fortunes:
-  1: A friend is a present you give yourself.
-  2: A hunch is creativity trying to tell you something.
-  3: A smooth long journey! Great expectations.
-  4: An inch of time is an inch of gold.
-  5: Because you demand more from yourself, others respect you deeply.
-  6: Believe it can be done.
-  7: Disbelief destroys the magic.
-  8: Do not be intimidated by the eloquence of others.
-  9: Do not make extra work for yourself.
-  10: Each day, compel yourself to do something you would rather not do.
-  11: Education is the ability to meet life’s situations.
-  12: Failure is the path of lease persistence.
-  13: From listening comes wisdom and from speaking repentance.
-  14: From now on your kindness will lead you to success.
-  15: Good news will be brought to you by mail.
-  16: Good to begin well, better to end well.
-  17: I learn by going where I have to go.
-  18: If you continually give, you will continually have.
-  19: If you wish to see the best in others, show the best of yourself.
-  20: In the end all things will be known.
+  41: A friend is a present you give yourself.
+  42: A hunch is creativity trying to tell you something.
+  43: A smooth long journey! Great expectations.
+  44: An inch of time is an inch of gold.
+  45: Because you demand more from yourself, others respect you deeply.
+  46: Believe it can be done.
+  47: Disbelief destroys the magic.
+  48: Do not be intimidated by the eloquence of others.
+  49: Do not make extra work for yourself.
+  50: Each day, compel yourself to do something you would rather not do.
+  51: Education is the ability to meet life’s situations.
+  52: Failure is the path of lease persistence.
+  53: From listening comes wisdom and from speaking repentance.
+  54: From now on your kindness will lead you to success.
+  55: Good news will be brought to you by mail.
+  56: Good to begin well, better to end well.
+  57: I learn by going where I have to go.
+  58: If you continually give, you will continually have.
+  59: If you wish to see the best in others, show the best of yourself.
+  60: In the end all things will be known.

@@ -13,22 +13,16 @@ management:
       show-details: always
       
       
-
-resilience4j.circuitbreaker:
-  instances:
-    tellerService:
-      registerHealthIndicator: true
-      eventConsumerBufferSize: 10
-      failureRateThreshold: 50
-      minimumNumberOfCalls: 5
-      automaticTransitionFromOpenToHalfOpenEnabled: true
-      waitDurationInOpenState: 5s
-      permittedNumberOfCallsInHalfOpenState: 3
-      slidingWindowSize: 10
-      slidingWindowType: COUNT_BASED
-
-resilience4j.timelimiter:
-  instances:
-    timeLimit:
-      timeoutDuration: 2s
-      cancelRunningFuture: true
+resilience4j:
+  circuitbreaker:
+    instances:
+      tellerService:
+        registerHealthIndicator: true
+        eventConsumerBufferSize: 10
+        failureRateThreshold: 50
+        minimumNumberOfCalls: 5
+        automaticTransitionFromOpenToHalfOpenEnabled: true
+        waitDurationInOpenState: 5s
+        permittedNumberOfCallsInHalfOpenState: 3
+        slidingWindowSize: 10
+        slidingWindowType: COUNT_BASED
